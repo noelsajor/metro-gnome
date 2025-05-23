@@ -25,14 +25,6 @@ Built with **React** and **Tailwind CSS**, Metro-Gnome is mobile-first, responsi
 
 ---
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/yourusername/metro-gnome.git
-cd metro-gnome
-npm install
-npm run dev
-
 🌐 Live Demo
 👉 View the app live (link coming soon)
 
@@ -41,3 +33,12 @@ José León
 LinkedIn • Portfolio • GitHub
 
 “Practice doesn't make perfect — practice with rhythm does.”
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/yourusername/metro-gnome.git
+cd metro-gnome
+npm install
+npm run dev
+
